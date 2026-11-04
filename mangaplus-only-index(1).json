@@ -1,1 +1,11 @@
-[{"id":"multi.mangaplus","name":"MANGA Plus","file":"https://aidoku-community.github.io/sources/sources/multi.mangaplus-v6.aix","icon":"https://aidoku-community.github.io/sources/icons/multi.mangaplus-v6.png","lang":"all","version":6,"nsfw":0}]
+[
+  {
+    "id": "multi.mangaplus",
+    "name": "MANGA Plus",
+    "file": "multi.mangaplus-v6.aix",
+    "icon": "https://aidoku-community.github.io/sources/icons/multi.mangaplus-v6.png",
+    "lang": "all",
+    "version": 6,
+    "nsfw": 0
+  }
+]
