@@ -1,0 +1,26 @@
+{
+  "name": "Rakuyomi - MANGA Plus only",
+  "sources": [
+    {
+      "id": "multi.mangaplus",
+      "name": "MANGA Plus",
+      "version": 6,
+      "iconURL": "https://aidoku-community.github.io/sources/icons/multi.mangaplus-v6.png",
+      "downloadURL": "https://aidoku-community.github.io/sources/sources/multi.mangaplus-v6.aix",
+      "languages": [
+        "en",
+        "es",
+        "fr",
+        "id",
+        "pt-BR",
+        "ru",
+        "th",
+        "vi",
+        "de"
+      ],
+      "contentRating": 0,
+      "baseURL": "https://mangaplus.shueisha.co.jp",
+      "minAppVersion": "0.7.2"
+    }
+  ]
+}
