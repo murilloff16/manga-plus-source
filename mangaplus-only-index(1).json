@@ -7,5 +7,13 @@
     "lang": "all",
     "version": 6,
     "nsfw": 0
+  },
+  {
+    "id": "pt.tomato",
+    "name": "Tomato (experimental)",
+    "file": "pt.tomato-v1.aix",
+    "lang": "pt-BR",
+    "version": 1,
+    "nsfw": 0
   }
 ]
